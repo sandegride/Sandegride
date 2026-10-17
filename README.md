@@ -13,6 +13,10 @@
 - **AI/ML infrastructure** — LLM inference with vLLM on NVIDIA A100 / H100 / L40S
 - **IaC & automation** — Terraform, Ansible; tooling in Go, Python and Bash
 
+### Featured
+
+- [k8s-platform-aws](https://github.com/sandegride/k8s-platform-aws) — EKS platform: Terraform, Helmfile add-ons, observability, Kyverno policies, CI
+
 ### Stack
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -33,4 +37,3 @@ Open to **DevOps / SRE / Platform Engineering** roles (remote).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-fedorov-1a6a71355/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/alex_dev0ps)
-/
